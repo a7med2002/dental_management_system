@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/icons/appIcon1.png" alt="HD Dental Clinic Logo" width="100"/>
+<img src="images/appIcon1.png" alt="HD Dental Clinic Logo" width="100"/>
 
 # HD Dental Clinic — Management System
 
@@ -324,28 +324,28 @@ The project is validated through real-device and real-database integration testi
 </p>
 
 <p align="center">
-  <img src="assets/images/3.png" width="45%" />
-  <img src="assets/images/4.png" width="45%" />
+  <img src="images/3.png" width="45%" />
+  <img src="images/4.png" width="45%" />
 </p>
 
 <p align="center">
-  <img src="assets/images/5.png" width="45%" />
-  <img src="assets/images/6.png" width="45%" />
+  <img src="images/5.png" width="45%" />
+  <img src="images/6.png" width="45%" />
 </p>
 
 <p align="center">
-  <img src="assets/images/7.png" width="45%" />
-  <img src="assets/images/8.png" width="45%" />
+  <img src="images/7.png" width="45%" />
+  <img src="images/8.png" width="45%" />
 </p>
 
 <p align="center">
-  <img src="assets/images/9.png" width="45%" />
-  <img src="assets/images/10.png" width="45%" />
+  <img src="images/9.png" width="45%" />
+  <img src="images/10.png" width="45%" />
 </p>
 
 <p align="center">
-  <img src="assets/images/11.png" width="45%" />
-  <img src="assets/images/12.png" width="45%" />
+  <img src="images/11.png" width="45%" />
+  <img src="images/12.png" width="45%" />
 </p>
 
 ---
