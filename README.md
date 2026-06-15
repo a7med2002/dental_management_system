@@ -244,62 +244,6 @@ lib/
 
 ---
 
-## 🚀 How to Run
-
-### Prerequisites
-
-- Flutter SDK `^3.x` with Dart `^3.11`
-- A Supabase project with the schema applied (16 tables + Edge Functions)
-- Firebase project (Android/iOS only) with `google-services.json` placed in `android/app/`
-
-### 1. Clone & install
-
-```bash
-git clone https://github.com/a7med2002/dental_management_app.git
-cd dental_management_app
-flutter pub get
-```
-
-### 2. Configure Supabase
-
-Update `lib/core/config/supabase_config.dart` with your project credentials:
-
-```dart
-static const supabaseUrl = 'https://YOUR_PROJECT.supabase.co';
-static const supabaseKey = 'YOUR_ANON_KEY';
-```
-
-### 3. Configure Firebase (mobile only)
-
-```bash
-dart pub global activate flutterfire_cli
-flutterfire configure
-```
-
-Place the generated `google-services.json` in `android/app/`.
-
-### 4. Run
-
-```bash
-# Android
-flutter run --release
-
-# Windows Desktop
-flutter run -d windows --release
-```
-
-### 5. Build for distribution
-
-```bash
-# Android APK
-flutter build apk --release
-
-# Windows executable
-flutter build windows --release
-```
-
----
-
 ## 🧪 Testing
 
 The project is validated through real-device and real-database integration testing:
@@ -319,8 +263,8 @@ The project is validated through real-device and real-database integration testi
 > Screenshots captured from production build v1.0.4.
 
 <p align="center">
-  <img src="assets/images/1.png" width="45%" />
-  <img src="assets/images/2.png" width="45%" />
+  <img src="images/1.png" width="45%" />
+  <img src="images/2.png" width="45%" />
 </p>
 
 <p align="center">
@@ -368,7 +312,7 @@ The project is validated through real-device and real-database integration testi
 
 Designed and built by:
 
-**Engineer Ahmed Jamil Maqdad**
+**Engineer Ahmed Jameel Meqdad**
 
 [![GitHub](https://img.shields.io/badge/GitHub-a7med2002-181717?logo=github&logoColor=white)](https://github.com/a7med2002)
 [![Email](https://img.shields.io/badge/Email-ahmd2002mqdad@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:ahmd2002mqdad@gmail.com)
@@ -377,6 +321,9 @@ Designed and built by:
 
 <div align="center">
 
+> 🔒 Source code is private (production deployment).
+> This repository showcases the project's architecture, features, and UI.
+> 
 *If you find this project useful, consider giving it a ⭐ on GitHub.*
 
 </div>
