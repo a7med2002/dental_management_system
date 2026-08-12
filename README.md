@@ -1,11 +1,5 @@
 <div align="center">
 
-<img src="images/appIcon1.png" alt="HD Dental Clinic Logo" width="100"/>
-
-# HD Dental Clinic — Management System
-
-<div align="center">
-
 # 🦷 HD Dental Clinic
 
 **A full-stack, offline-first clinic management system built with Flutter**
@@ -194,29 +188,36 @@ dental_management_app/
 
 <div align="center">
 
+| Dashboard | Patient Dental Chart | Appointments |
+|---|---|---|
+| _Add screenshot_ | _Add screenshot_ | _Add screenshot_ |
 
+| Finance & Reports | Inventory | Settings |
+|---|---|---|
+| _Add screenshot_ | _Add screenshot_ | _Add screenshot_ |
+
+</div>
+
+> Replace the placeholders above with real screenshots (e.g. `docs/screenshots/dashboard.png`) once available.
+
+---
+
+## 🔗 Social Links
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-a7med2002-181717?logo=github&logoColor=white)](https://github.com/a7med2002)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white)](#)
+
+*(Update the LinkedIn and Email links above with your own profile URLs.)*
 
 </div>
 
 ---
 
-
-## 👨‍💻 Contact
-
-Designed and built by:
-
-**Engineer Ahmed Jameel Meqdad**
-
-[![GitHub](https://img.shields.io/badge/GitHub-a7med2002-181717?logo=github&logoColor=white)](https://github.com/a7med2002)
-[![Email](https://img.shields.io/badge/Email-ahmd2002mqdad@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:ahmd2002mqdad@gmail.com)
-
----
-
 <div align="center">
 
-> 🔒 Source code is private (production deployment).
-> This repository showcases the project's architecture, features, and UI.
-> 
-*If you find this project useful, consider giving it a ⭐ on GitHub.*
+Built with ❤️ using Flutter & Supabase
 
 </div>
