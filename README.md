@@ -188,13 +188,8 @@ dental_management_app/
 
 <div align="center">
 
-| Dashboard | Patient Dental Chart | Appointments |
-|---|---|---|
-| _Add screenshot_ | _Add screenshot_ | _Add screenshot_ |
-
-| Finance & Reports | Inventory | Settings |
-|---|---|---|
-| _Add screenshot_ | _Add screenshot_ | _Add screenshot_ |
+![App Image 1](images/1.jpg)
+![App Image 2](images/2.jpg)
 
 </div>
 
@@ -207,7 +202,7 @@ dental_management_app/
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-a7med2002-181717?logo=github&logoColor=white)](https://github.com/a7med2002)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://LinkedIn.com/ahmedmeqdad0)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white)](#)
 
 *(Update the LinkedIn and Email links above with your own profile URLs.)*
