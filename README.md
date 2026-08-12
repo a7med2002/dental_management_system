@@ -171,29 +171,23 @@ dental_management_app/
 
 ---
 
-## 🚀 Future Improvements
-
-- [ ] Expand automated test coverage (unit tests for providers/repositories, integration tests for the sync queue)
-- [ ] Migrate raw Hive JSON boxes to a structured local database (`drift` is already a dev dependency) for type-safety and easier migrations
-- [ ] Add CI/CD pipeline (GitHub Actions) for automated builds, linting, and release publishing to the `appcast.xml` feed
-- [ ] Conflict-resolution strategy for the offline sync queue when the same record is edited on two devices
-- [ ] Publish the iOS and macOS builds (currently configured but not actively distributed)
-- [ ] Multi-clinic / multi-tenant support as a first-class configuration option (currently done via white-label rebuilds)
-- [ ] Richer analytics & reporting (trend comparisons, exportable dashboards)
-- [ ] Encrypted local storage for sensitive patient data at rest
-
----
-
 ## 📸 Screenshots
+
+<row>
 
 <div align="center">
 
 ![App Image 1](images/1.jpg)
+
+</div>
+
+<div align="center">
+
 ![App Image 2](images/2.jpg)
 
 </div>
 
-> Replace the placeholders above with real screenshots (e.g. `docs/screenshots/dashboard.png`) once available.
+</row>
 
 ---
 
@@ -203,9 +197,7 @@ dental_management_app/
 
 [![GitHub](https://img.shields.io/badge/GitHub-a7med2002-181717?logo=github&logoColor=white)](https://github.com/a7med2002)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://LinkedIn.com/ahmedmeqdad0)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white)](#)
-
-*(Update the LinkedIn and Email links above with your own profile URLs.)*
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white)](mailto:ahmd2002mqdad@gmail.com)
 
 </div>
 
